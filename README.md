@@ -8,7 +8,7 @@ This project was developed as a school project. Unity and C# were the tools to d
 1. To implement the scenes you need Unity_5.0.2f1_Plus
 2. İf MonoBehaviour doesn't work so you need Visual Studio to write C# codes.
 
-That is actually all you need :) All you need is download this code and name it your project as "Second" ( as you can see ) and run the code :)
+That is actually all you need :) All you need is download this code and name it your project as "Second" ( as you can see ) and run the code or you can just use this project assets (prefabs, scripts, scenes etc.) :)
 
 # What Does This Project Actually Do ?
 This project originally was developed for Dyslexic children between 3 and 8. And stayed like that because improvements has stopped.
