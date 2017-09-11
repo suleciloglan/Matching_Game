@@ -13,4 +13,6 @@ This project originally was developed for Dyslexic children between 3 and 8. And
 
 This Game presents 4 diffrent level for user. 
 
-First level shows images to the children without covering them with button images. The aim of the level was the determine whether children can match two image which they see.
+All pictures on the first level are shown clearly, and children are asked to match the shapes they see. The intention of this fairly simple level to determine that the intended children perceive the shapes they see correctly.
+
+
